@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Tracking App with react native base on Mongo DB , Express, Ngrok, Node Js, Redux",
+    "githubUrl": "https://github.com/lewenbach228/uTracker"
   }
 }
